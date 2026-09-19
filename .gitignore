@@ -1,0 +1,5 @@
+node_modules/
+backups/
+Presets/*
+!Presets/.gitkeep
+
