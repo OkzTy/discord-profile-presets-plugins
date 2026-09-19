@@ -181,7 +181,7 @@ Special thanks and acknowledgment to **[Osihra](https://github.com/Osihra)** for
 
 <br>
 
-If this helped you, **drop a ⭐ star** it keeps the project alive.
+If this helped you, **drop a ⭐ star**
 
 <br><br>
 
